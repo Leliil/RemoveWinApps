@@ -42,7 +42,7 @@ if %CUSTOM_LIST%==1 (
         exit /b 1
     )
 ) else (
-    set "AppsList=Microsoft.549981C3F5F10 Microsoft.BingWeather Microsoft.GetHelp Microsoft.Getstarted Microsoft.Microsoft3DViewer Microsoft.MicrosoftOfficeHub Microsoft.MicrosoftSolitaireCollection Microsoft.MicrosoftStickyNotes Microsoft.MixedReality.Portal Microsoft.Office.OneNote Microsoft.People Microsoft.SkypeApp Microsoft.Wallet Microsoft.WindowsAlarms Microsoft.WindowsCamera microsoft.windowscommunicationsapps Microsoft.WindowsFeedbackHub Microsoft.WindowsMaps Microsoft.WindowsSoundRecorder Microsoft.Xbox.TCUI Microsoft.XboxApp Microsoft.XboxGameOverlay Microsoft.XboxIdentityProvider Microsoft.YourPhone Microsoft.ZuneMusic Microsoft.ZuneVideo"
+    set "AppsList=Microsoft.549981C3F5F10 Microsoft.BingWeather Microsoft.GetHelp Microsoft.Getstarted Microsoft.Microsoft3DViewer Microsoft.MicrosoftOfficeHub Microsoft.MicrosoftSolitaireCollection Microsoft.MicrosoftStickyNotes Microsoft.MixedReality.Portal Microsoft.Office.OneNote Microsoft.People Microsoft.SkypeApp Microsoft.Wallet Microsoft.WindowsAlarms Microsoft.WindowsCamera microsoft.windowscommunicationsapps Microsoft.WindowsFeedbackHub Microsoft.WindowsMaps Microsoft.WindowsSoundRecorder Microsoft.Xbox.TCUI Microsoft.XboxApp Microsoft.XboxGameOverlay Microsoft.XboxIdentityProvider Microsoft.YourPhone Microsoft.ZuneMusic Microsoft.ZuneVideo MicrosoftTeams Microsoft.PowerAutomateDesktop Microsoft.BingNews Microsoft.Clipchamp"
 )
 
 :: Удаление приложений
