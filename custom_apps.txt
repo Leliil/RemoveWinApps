@@ -1,0 +1,5 @@
+Microsoft.BingWeather
+Microsoft.GetHelp
+Microsoft.SkypeApp
+Microsoft.XboxApp
+Microsoft.YourPhone
