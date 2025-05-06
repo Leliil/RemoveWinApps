@@ -1,6 +1,6 @@
 # Windows 10 Built-in Apps Remover
 
-[PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)
+[!PowerShell(https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)]
 [![Batchfile](https://img.shields.io/badge/Batch-4D4D4D.svg?logo=windows-terminal&logoColor=white)]
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]
 
