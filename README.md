@@ -10,7 +10,7 @@
 
 1. Склонируйте репозиторий:
 ```powershell
-git clone [https://github.com/Leliil/windows10-apps-remover.git](https://github.com/Leliil/RemoveWinApps.git)
+git clone https://github.com/Leliil/RemoveWinApps.git
 ```
 
 2. Или скачайте ZIP-архив и распакуйте
